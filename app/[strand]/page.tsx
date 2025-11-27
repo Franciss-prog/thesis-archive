@@ -17,14 +17,14 @@ const strandConfig: Record<
   },
   pbm: {
     key: "PBM",
-    title: "Principles of Business Management",
+    title: "Pre-Baccalaureate Maritime",
     excerpt:
       "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
   humss: {
     key: "HUMSS",
-    title: "Principles of Business Management",
+    title: "Humanities and Social Sciences",
     excerpt:
       "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
