@@ -15,6 +15,12 @@ const strandInsights = [
       "Principles of Business Management theses examine entrepreneurship, finance, sustainability, and organizational design to strengthen local industries and communities.",
     icon: BriefcaseIcon,
   },
+  {
+    title: "What is HUMSS?",
+    description:
+      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+    icon: UsersIcon,
+  },
 ];
 
 export default function Home() {
