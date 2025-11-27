@@ -23,6 +23,13 @@ const strands: Array<{
     Icon: BuildingOffice2Icon,
     href: "/pbm",
   },
+  {
+    key: "HUMSS",
+    label: "HUMSS Theses",
+    description: "Business strategy, finance, and community ventures.",
+    Icon: BuildingOffice2Icon,
+    href: "/humss",
+  },
 ];
 
 type StrandFilterProps = {
