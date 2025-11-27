@@ -22,7 +22,7 @@ const strandConfig: Record<
       "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
-   humss: {
+  humss: {
     key: "HUMSS",
     title: "Principles of Business Management",
     excerpt:
