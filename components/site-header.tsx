@@ -48,13 +48,13 @@ export function SiteHeader() {
           </Link>
          <Link
             className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
-            href="/ict"
+            href="/humms"
           >
            HUMSS Theses
           </Link>
           <Link
             className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
-            href="/ict"
+            href="/abm"
           >
             ABM Theses
           </Link>
