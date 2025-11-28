@@ -15,6 +15,20 @@ const strandConfig: Record<
       "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
     highlight: "Prototypes, immersive learning, and digital infrastructure.",
   },
+  stem: {
+    key: "STEM",
+    title: "Information and Communications Technology",
+    excerpt:
+      "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
+    highlight: "Prototypes, immersive learning, and digital infrastructure.",
+  },
+  abm: {
+    key: "ABM",
+    title: "Information and Communications Technology",
+    excerpt:
+      "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
+    highlight: "Prototypes, immersive learning, and digital infrastructure.",
+  },
   pbm: {
     key: "PBM",
     title: "Pre-Baccalaureate Maritime",
