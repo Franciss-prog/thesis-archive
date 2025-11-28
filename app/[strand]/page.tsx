@@ -17,14 +17,14 @@ const strandConfig: Record<
   },
   stem: {
     key: "STEM",
-    title: "Information and Communications Technology",
+    title: "Science Technology Engneering Mathematics",
     excerpt:
       "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
     highlight: "Prototypes, immersive learning, and digital infrastructure.",
   },
   abm: {
     key: "ABM",
-    title: "Information and Communications Technology",
+    title: "Accountancy Business and Management",
     excerpt:
       "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
     highlight: "Prototypes, immersive learning, and digital infrastructure.",
