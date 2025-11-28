@@ -10,6 +10,18 @@ const strandInsights = [
     icon: AcademicCapIcon,
   },
   {
+    title: "What is STEM?",
+    description:
+      "Information and Communications Technology theses tackle software engineering, intelligent systems, infrastructure, and immersive experiences that move our digital campus forward.",
+    icon: AcademicCapIcon,
+  },
+  {
+    title: "What is ABM?",
+    description:
+      "Information and Communications Technology theses tackle software engineering, intelligent systems, infrastructure, and immersive experiences that move our digital campus forward.",
+    icon: AcademicCapIcon,
+  },
+  {
     title: "What is PBM?",
     description:
       "Principles of Business Management theses examine entrepreneurship, finance, sustainability, and organizational design to strengthen local industries and communities.",
