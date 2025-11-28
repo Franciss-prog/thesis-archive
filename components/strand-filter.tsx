@@ -16,6 +16,20 @@ const strands: Array<{
     Icon: CpuChipIcon,
     href: "/ict",
   },
+   {
+    key: "STEM",
+    label: "STEM Theses",
+    description: "Software, networks, and immersive tech innovations.",
+    Icon: CpuChipIcon,
+    href: "/stem",
+  },
+   {
+    key: "ABM",
+    label: "ABM Theses",
+    description: "Software, networks, and immersive tech innovations.",
+    Icon: CpuChipIcon,
+    href: "/abm",
+  },
   {
     key: "PBM",
     label: "PBM Theses",
