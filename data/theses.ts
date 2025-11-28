@@ -72,6 +72,30 @@ export const theses: Thesis[] = [
     pdfUrl: "/pdfs/thesis-04.pdf",
   },
   {
+    id: "stem-01",
+    title: "Augmented Reality Equipment Trainer",
+    authors: ["Dana Pascual", "Eli Santos"],
+    year: 2021,
+    strand: "STEM",
+    abstract:
+      "Focusing on immersive learning, this project develops an AR application that guides electronics students through soldering, board inspection, and safety workflows. Spatial anchors align virtual overlays with physical lab benches, while a validation study compares task completion between AR-assisted and traditional printed guides. Participants using the AR trainer finish calibration steps 33% faster and commit fewer safety violations, according to a rubric developed with faculty mentors. The thesis delves into 3D asset optimization for low-powered tablets, user interface accessibility decisions, and the maintenance process for updating procedures every academic term. Suggestions for future work include haptic feedback integrations and multi-user collaboration modes.",
+    thumbnail:
+      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-04.pdf",
+  },
+  {
+    id: "abm-01",
+    title: "Augmented Reality Equipment Trainer",
+    authors: ["Dana Pascual", "Eli Santos"],
+    year: 2021,
+    strand: "ABM",
+    abstract:
+      "Focusing on immersive learning, this project develops an AR application that guides electronics students through soldering, board inspection, and safety workflows. Spatial anchors align virtual overlays with physical lab benches, while a validation study compares task completion between AR-assisted and traditional printed guides. Participants using the AR trainer finish calibration steps 33% faster and commit fewer safety violations, according to a rubric developed with faculty mentors. The thesis delves into 3D asset optimization for low-powered tablets, user interface accessibility decisions, and the maintenance process for updating procedures every academic term. Suggestions for future work include haptic feedback integrations and multi-user collaboration modes.",
+    thumbnail:
+      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-04.pdf",
+  },
+  {
     id: "pbm-01",
     title: "Digital Microfinance Readiness Index",
     authors: ["Ivy Domingo", "Carlos Llamas"],
