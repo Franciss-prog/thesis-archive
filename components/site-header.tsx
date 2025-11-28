@@ -42,21 +42,27 @@ export function SiteHeader() {
           </Link>
           <Link
             className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
-            href="/pbm"
+            href="/stem"
           >
-            PBM Theses
-          </Link>
-         <Link
-            className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
-            href="/humms"
-          >
-           HUMSS Theses
+            STEM Theses
           </Link>
           <Link
             className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
             href="/abm"
           >
             ABM Theses
+          </Link>
+          <Link
+            className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            href="/pbm"
+          >
+            PBM Theses
+          </Link>
+         <Link
+            className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            href="/humss"
+          >
+           HUMSS Theses
           </Link>
         </nav>
 
